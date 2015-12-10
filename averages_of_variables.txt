@@ -1,67 +1,67 @@
 "average_test_train"
-"time_Body_Accelerometer_X_axis_mean_average" 0.274347260646063
-"time_Body_Accelerometer_Y_axis_mean_average" -0.0177434918458972
-"time_Body_Accelerometer_Z_axis_mean_average" -0.108925032737064
-"time_Body_Accelerometer_X_axis_std_average" -0.607783818968688
-"time_Body_Accelerometer_Y_axis_std_average" -0.510191378479501
-"time_Body_Accelerometer_Z_axis_std_average" -0.61306429934125
-"time_Gravity_Accelerometer_X_axis_mean_average" 0.669226222373046
-"time_Gravity_Accelerometer_Y_axis_mean_average" 0.00403879092060517
-"time_Gravity_Accelerometer_Z_axis_mean_average" 0.0921508600211059
-"time_Gravity_Accelerometer_X_axis_std_average" -0.965207115039421
-"time_Gravity_Accelerometer_Y_axis_std_average" -0.95440802665318
-"time_Gravity_Accelerometer_Z_axis_std_average" -0.938900969424022
-"time_Body_Accelerometer_Jerk_X_axis_mean_average" 0.0789381220355816
-"time_Body_Accelerometer_Jerk_Y_axis_mean_average" 0.0079481069090025
-"time_Body_Accelerometer_Jerk_Z_axis_mean_average" -0.00467469823628666
-"time_Body_Accelerometer_Jerk_X_axis_std_average" -0.63978102073413
-"time_Body_Accelerometer_Jerk_Y_axis_std_average" -0.607971599340832
-"time_Body_Accelerometer_Jerk_Z_axis_std_average" -0.762820240449202
-"time_Body_Gryoscope_X_axis_mean_average" -0.0309824871713436
-"time_Body_Gryoscope_Y_axis_mean_average" -0.0747194855994359
-"time_Body_Gryoscope_Z_axis_mean_average" 0.088357304227173
-"time_Body_Gryoscope_X_axis_std_average" -0.721192598029789
-"time_Body_Gryoscope_Y_axis_std_average" -0.682653506899942
-"time_Body_Gryoscope_Z_axis_std_average" -0.653665674372188
-"time_Body_Gryoscope_Jerk_X_axis_mean_average" -0.0967092754729682
-"time_Body_Gryoscope_Jerk_Y_axis_mean_average" -0.0423181079782632
-"time_Body_Gryoscope_Jerk_Z_axis_mean_average" -0.0548303497968374
-"time_Body_Gryoscope_Jerk_X_axis_std_average" -0.731348533131935
-"time_Body_Gryoscope_Jerk_Y_axis_std_average" -0.786062320321895
-"time_Body_Gryoscope_Jerk_Z_axis_std_average" -0.739932395222129
-"time_Body_Accelerometer_Magnitude_mean_average" -0.54822165976717
-"time_Body_Accelerometer_Magnitude_std_average" -0.591225327146546
-"time_Gravity_Accelerometer_Magnitude_mean_average" -0.54822165976717
-"time_Gravity_Accelerometer_Magnitude_std_average" -0.591225327146546
-"time_Body_Accelerometer_Jerk_Magnitude_mean_average" -0.649417950650692
-"time_Body_Accelerometer_Jerk_Magnitude_std_average" -0.627762945785391
-"time_Body_Gryoscope_Magnitude_mean_average" -0.60524856977632
-"time_Body_Gryoscope_Magnitude_std_average" -0.662533062898382
-"time_Body_Gryoscope_Jerk_Magnitude_mean_average" -0.762137610987416
-"time_Body_Gryoscope_Jerk_Magnitude_Std_average" -0.77799317279698
-"fft_Body_Accelerometer_X_axis_mean_average" -0.622761658493734
-"fft_Body_Accelerometer_Y_axis_mean_average" -0.53749328145871
-"fft_Body_Accelerometer_Z_axis_mean_average" -0.665033506271952
-"fft_Body_Accelerometer_X_axis_std_average" -0.603356276555826
-"fft_Body_Accelerometer_Y_axis_std_average" -0.528420009576204
-"fft_Body_Accelerometer_Z_axis_std_average" -0.617874813333395
-"fft_Body_Accelerometer_Jerk_X_axis_mean_average" -0.656713524546605
-"fft_Body_Accelerometer_Jerk_Y_axis_mean_average" -0.628961179980356
-"fft_Body_Accelerometer_Jerk_Z_axis_mean_average" -0.743608246170053
-"fft_Body_Accelerometer_Jerk_X_axis_std_average" -0.654979816705833
-"fft_Body_Accelerometer_Jerk_Y_axis_std_average" -0.612243590244114
-"fft_Body_Accelerometer_Jerk_Z_axis_std_average" -0.780928428167213
-"fft_Body_Gryoscope_X_axis_mean_average" -0.672094306818974
-"fft_Body_Gryoscope_Y_axis_mean_average" -0.70621663959074
-"fft_Body_Gryoscope_Z_axis_mean_average" -0.644192752866115
-"fft_Body_Gryoscope_X_axis_std_average" -0.738594816501343
-"fft_Body_Gryoscope_Y_axis_std_average" -0.674226934551517
-"fft_Body_Gryoscope_Z_axis_std_average" -0.690446312501126
-"fft_Body_Accelerometer_Magnitude_mean_average" -0.585962696268539
-"fft_Body_Accelerometer_Magnitude_std_average" -0.659531216655476
-"fft_Body_Accelerometer_Jerk_Magnitude_mean_average" -0.620789916331592
-"fft_Body_Accelerometer_Jerk_Magnitude_std_average" -0.640076803144351
-"fft_Body_Gryoscope_Magnitude_mean_average" -0.697411069729937
-"fft_Body_Gryoscope_Magnitude_std_average" -0.699976372277643
-"fft_Body_Gryoscope_Jerk_Magnitude_mean_average" -0.779767633083527
-"fft_Body_Gryoscope_Jerk_Magnitude_std_average" -0.792190209274884
+0.274347260646063
+-0.0177434918458972
+-0.108925032737064
+-0.607783818968688
+-0.510191378479501
+-0.61306429934125
+0.669226222373046
+0.00403879092060517
+0.0921508600211059
+-0.965207115039421
+-0.95440802665318
+-0.938900969424022
+0.0789381220355816
+0.0079481069090025
+-0.00467469823628666
+-0.63978102073413
+-0.607971599340832
+-0.762820240449202
+-0.0309824871713436
+-0.0747194855994359
+0.088357304227173
+-0.721192598029789
+-0.682653506899942
+-0.653665674372188
+-0.0967092754729682
+-0.0423181079782632
+-0.0548303497968374
+-0.731348533131935
+-0.786062320321895
+-0.739932395222129
+-0.54822165976717
+-0.591225327146546
+-0.54822165976717
+-0.591225327146546
+-0.649417950650692
+-0.627762945785391
+-0.60524856977632
+-0.662533062898382
+-0.762137610987416
+-0.77799317279698
+-0.622761658493734
+-0.53749328145871
+-0.665033506271952
+-0.603356276555826
+-0.528420009576204
+-0.617874813333395
+-0.656713524546605
+-0.628961179980356
+-0.743608246170053
+-0.654979816705833
+-0.612243590244114
+-0.780928428167213
+-0.672094306818974
+-0.70621663959074
+-0.644192752866115
+-0.738594816501343
+-0.674226934551517
+-0.690446312501126
+-0.585962696268539
+-0.659531216655476
+-0.620789916331592
+-0.640076803144351
+-0.697411069729937
+-0.699976372277643
+-0.779767633083527
+-0.792190209274884
