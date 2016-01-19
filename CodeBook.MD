@@ -174,3 +174,7 @@ __Feature Selection__
 |fft_Body_Gryoscope_Magnitude_std	        |integer     |Standard Deviation of Varible Name     | 
 |fft_Body_Gryoscope_Jerk_Magnitude_mean	    |integer     |Mean of variable name                  |
 |fft_Body_Gryoscope_Jerk_Magnitude_std	    |integer     |Standard Deviation of Varible Name     | 
+
+==============================================================================================================================
+
+####These variable names are replicated after the averages are calculated with "_average" added to reflect averages vs. raw numbers 
